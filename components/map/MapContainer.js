@@ -206,7 +206,7 @@ const styles = StyleSheet.create({
   }
 });
 
-MapView.navigationOptions = {
+MapContainer.navigationOptions = {
   title: 'Map',
   headerStyle: {
     backgroundColor: 'grey'
